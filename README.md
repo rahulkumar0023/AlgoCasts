@@ -1,35 +1,36 @@
 # AlgoCasts
 
-Short description
-
-This repository contains algorithm explanations, problem walkthroughs, and sample code. Replace this paragraph with a concise description of what this repo contains and what it's for.
+A collection of algorithm explanations, problem walkthroughs, and sample implementations.
 
 ## Overview
 
-- Algorithm explanations and implementations in multiple languages.
+This repository contains algorithm solutions and educational write-ups designed to help learners understand common algorithms and data structures.
 
 ## Requirements
 
-List any language or tool requirements here.
+- Node.js (for JavaScript samples) or Java/Python runtimes depending on the language used in specific examples.
 
 ## Installation
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/rahulkumar0023/AlgoCasts.git
-   ```
+
+```bash
+git clone https://github.com/rahulkumar0023/AlgoCasts.git
+```
+
+2. Explore the language-specific folders and follow any README files inside them.
 
 ## Usage
 
-Add examples and how to run the code here.
+Each folder contains example code and usage notes. Run language-specific files using the appropriate runtime.
 
 ## Contributing
 
-Contributions welcome. Please open issues or pull requests.
+Contributions welcome — open an issue or submit a pull request with improvements.
 
 ## License
 
-Specify a license (e.g. MIT, Apache-2.0) in a LICENSE file.
+MIT
 
 ## Contact
 
