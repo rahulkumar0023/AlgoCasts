@@ -1,0 +1,21 @@
+# AlgoCasts
+
+Companion repo to a course on Udemy.com
+
+Short description
+
+This repository contains algorithm explanations and sample code. Replace this paragraph with a concise description of what this repo contains and what it's for.
+
+## Overview
+
+- Algorithm explanations and implementations in multiple languages.
+
+## Installation
+
+```bash
+git clone https://github.com/rahulkumar0023/AlgoCasts.git
+```
+
+## Contributing
+
+Contributions welcome.
